@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Sophanut
 
-<!--
-**splexmus/splexmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying **Computer Engineering** and building my skills across software, robotics, cybersecurity, and backend development.
 
-Here are some ideas to get you started:
+### 🚀 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Robotics and autonomous systems
+- 🛡️ Cybersecurity
+- 🧩 Backend development
+- 💻 Software engineering and system design
+
+### 🛠️ Tech Stack
+
+**Coding**
+
+- C
+- C++
+- Python
+- JavaScript
+
+**Robotics — currently learning**
+
+- ROS 2
+- Nav2
+- Gazebo
+
+### 📌 Currently Learning
+
+I'm currently learning robotics development with **ROS 2**, **Nav2**, and **Gazebo**, while continuing to improve my backend and cybersecurity knowledge.
